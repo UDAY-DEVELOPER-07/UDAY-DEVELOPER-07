@@ -19,8 +19,8 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 Feel free to reach out to me for any collaboration or just to say hi!
 
-- **Email:** uday@example.com
-- **LinkedIn:** [Uday's LinkedIn](www.linkedin.com/in/uday-coder)
+- **Email:** udaysinghno2005@gmail.com
+- **LinkedIn:** [Uday's LinkedIn](https://www.linkedin.com/in/uday-coder/)
 
 ## GitHub Stats
 
