@@ -15,22 +15,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - **Frameworks & Libraries:** React, Node.js
 - **Tools & Platforms:**  GitHub Actions
 
-## Projects
-
-Here are a few projects I've worked on:
-
-1. **Project Name:** Description of the project.
-   - **Technologies:** List of technologies used.
-   - **Repository:** [Link to repository](#)
-
-2. **Project Name:** Description of the project.
-   - **Technologies:** List of technologies used.
-   - **Repository:** [Link to repository](#)
-
-3. **Project Name:** Description of the project.
-   - **Technologies:** List of technologies used.
-   - **Repository:** [Link to repository](#)
-
 ## Contact Me
 
 Feel free to reach out to me for any collaboration or just to say hi!
