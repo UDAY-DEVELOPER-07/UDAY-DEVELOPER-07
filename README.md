@@ -1,6 +1,6 @@
 # Hello, I'm Uday! 👋
 
-I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!
+I'm a passionate Frontend developer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
 ## About Me
 
