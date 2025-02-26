@@ -5,7 +5,7 @@ I'm a passionate Frontend developer with a love for coding and problem-solving. 
 ## About Me
 
 - **Name:** Uday
-- **Role:** Software Developer
+- **Role:** Frontend Developer
 - **Interests:** Frontend Development, Open Source, Generative AI
 - **Location:** 🌏 Planet Earth
 
