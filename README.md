@@ -28,7 +28,6 @@ Feel free to reach out to me for any collaboration or just to say hi!
  <div align="center">
  ![UDAY-DEVELOPER-07 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY-DEVELOPER-07&layout=compact&theme=radical)
  </div>
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=UDAY-DEVELOPER-07&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=UDAY-DEVELOPER-07&theme=dark&hide_border=true" />
