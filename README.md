@@ -22,9 +22,14 @@ Feel free to reach out to me for any collaboration or just to say hi!
 - **Email:** udaysinghno2005@gmail.com
 - **LinkedIn:** [Uday's LinkedIn](https://www.linkedin.com/in/uday-coder/)
 
-## GitHub Stats
+# <p align="center">📊 GitHub Stats </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mukundsolanki&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukundsolanki&theme=dark&hide_border=true" />
+ <img  src="https://github-readme-activity-graph.vercel.app/graph?username=mukundsolanki&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+ </p>
 
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDAY-DEVELOPER-07&show_icons=true&theme=radical)
+# <p align="center">🏆GitHub Trophies</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mukundsolanki&theme=radical&no-frame=false&no-bg=true&margin-w=4"></p>
 
 ## Contributions
 
