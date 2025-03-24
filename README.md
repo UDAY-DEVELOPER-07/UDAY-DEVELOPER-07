@@ -29,12 +29,12 @@ Feel free to reach out to me for any collaboration or just to say hi!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY-DEVELOPER-07&layout=compact&theme=radical" alt="UDAY-DEVELOPER-07 Top Langs">
 </div>
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=UDAY-DEVELOPER-07&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=UDAY-DEVELOPER-07&theme=dark&hide_border=true" />
 
  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=UDAY-DEVELOPER-07&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-  </div>
+  </p>
 # <p align="center">🏆GitHub Trophies</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=UDAY-DEVELOPER-07&theme=radical&no-frame=false&no-bg=true&margin-w=4"></p>
 
