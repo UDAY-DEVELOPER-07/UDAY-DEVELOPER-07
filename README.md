@@ -31,7 +31,8 @@ Feel free to reach out to me for any collaboration or just to say hi!
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UDAY-DEVELOPER-07&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=UDAY-DEVELOPER-07&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=UDAY-DEVELOPER-07&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UDAY-DEVELOPER-07&theme=dark&hide_border=true"/>
 
  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=UDAY-DEVELOPER-07&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
   </div>
