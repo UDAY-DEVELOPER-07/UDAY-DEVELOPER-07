@@ -26,7 +26,7 @@ Feel free to reach out to me for any collaboration or just to say hi!
 
 # <p align="center">📊 GitHub Stats </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY-DEVELOPER-07&layout=compact&theme=radical" alt="UDAY-DEVELOPER-07 Top Langs">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY-DEVELOPER-07&theme=tokyonight)
 </div>
 
 <div align="center">
