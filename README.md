@@ -25,7 +25,7 @@ Feel free to reach out to me for any collaboration or just to say hi!
  # Productivity Stats📈:
  <table>
    <tr>
-     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDAY-DEVELOPER-07&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDAY-DEVELOPER-07&theme=github_dark" ></td>
     </tr> 
     <tr>
 <!--        <td>
