@@ -39,6 +39,7 @@ Feel free to reach out to me for any collaboration or just to say hi!
 # <p align="center">🏆GitHub Trophies</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=UDAY-DEVELOPER-07&theme=radical&no-frame=false&no-bg=true&margin-w=4"></p>
 
+[![An image of @udaydeveloper07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaydeveloper07)](https://holopin.io/@udaydeveloper07)
 
 
 Thanks for visiting my profile! Have a great day! 😊
