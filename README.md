@@ -22,7 +22,23 @@ Feel free to reach out to me for any collaboration or just to say hi!
 - **Email:** udaysinghno2005@gmail.com
 - **LinkedIn:** [Uday's LinkedIn](https://www.linkedin.com/in/uday-coder/)
 
-
+ # Productivity Stats📈:
+ <table>
+   <tr>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDAY-DEVELOPER-07&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    </tr> 
+    <tr>
+<!--        <td>
+         <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-light-mode-only">
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
+         </a>
+         <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-dark-mode-only">
+           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
+         </a>
+     </td> -->
+   </td>
+   </tr>
+ </table>
 
 # <p align="center">📊 GitHub Stats </p>
 <div align="center">
