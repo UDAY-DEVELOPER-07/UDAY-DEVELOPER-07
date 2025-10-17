@@ -1,61 +1,63 @@
-# Hello, I'm Uday! 👋
+<p align="center">
+  <img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1920/keyart/GEXH3WKK0-backdrop_wide" width="100%" />
+</p>
 
-I'm a passionate Frontend developer with a love for coding and problem-solving. Welcome to my GitHub profile!
+<h1 align="center">Uday Singh – Full Stack Developer</h1>
 
-## About Me
-
-- **Name:** Uday
-- **Role:** Frontend Developer
-- **Interests:** Frontend Development, Open Source, Generative AI
-- **Location:** 🌏 Planet Earth
-
-## Skills
-
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js
-- **Tools & Platforms:**  GitHub Actions
-
-## Contact Me
-
-Feel free to reach out to me for any collaboration or just to say hi!
-
-- **Email:** udaysinghno2005@gmail.com
-- **LinkedIn:** [Uday's LinkedIn](https://www.linkedin.com/in/uday-coder/)
-
- # Productivity Stats📈:
- <table>
-   <tr>
-     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDAY-DEVELOPER-07&theme=github_dark" ></td>
-    </tr> 
-    <tr>
-<!--        <td>
-         <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-light-mode-only">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
-         </a>
-         <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-dark-mode-only">
-           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
-         </a>
-     </td> -->
-   </td>
-   </tr>
- </table>
-
-# <p align="center">📊 GitHub Stats </p>
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY-DEVELOPER-07&theme=tokyonight&layout=compact"/>
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UDAY-DEVELOPER-07&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UDAY-DEVELOPER-07&theme=dark&hide_border=true"/>
-
- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=UDAY-DEVELOPER-07&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-  </div>
-# <p align="center">🏆GitHub Trophies</p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=UDAY-DEVELOPER-07&theme=radical&no-frame=false&no-bg=true&margin-w=4"></p>
-
-[![An image of @udaydeveloper07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaydeveloper07)](https://holopin.io/@udaydeveloper07)
+<p align="center">
+  I specialize in designing and building scalable web applications. My expertise spans both frontend and backend technologies, and I aim for clean, maintainable, and efficient code.
+</p>
 
 
-Thanks for visiting my profile! Have a great day! 😊
+---
+
+## ⚒️ Tools of My Trade
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 Saga Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDAY-DEVELOPER-07&theme=github_dark" />
+</p>
+
+---
+
+## 🏆 Battle Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UDAY-DEVELOPER-07&theme=onestar&no-frame=true&margin-w=5" />
+</p>
+
+[![Holopin Badges](https://holopin.me/udaydeveloper07)](https://holopin.io/@udaydeveloper07)
+
+---
+
+## 🧭 Connect With Me
+
+- 📫 **Email:** udaysinghno2005@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/uday-coder/)  
+
+---
+
+<p align="center"><em>“We wander not to escape life, but to master it — through code, creation, and courage.”</em></p>
