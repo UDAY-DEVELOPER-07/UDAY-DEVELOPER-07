@@ -39,7 +39,7 @@
 ## 📊 Saga Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDAY-DEVELOPER-07&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaydevs&theme=github_dark" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 Battle Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UDAY-DEVELOPER-07&theme=onestar&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=udaydevs&theme=onestar&no-frame=true&margin-w=5" />
 </p>
 
 [![Holopin Badges](https://holopin.me/udaydeveloper07)](https://holopin.io/@udaydeveloper07)
